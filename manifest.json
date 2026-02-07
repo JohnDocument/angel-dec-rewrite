@@ -7,8 +7,8 @@
   "action": {
     "title": "Hello World",
     "icon": {
-      "light": "https://your-host/my-obr-extension/icon-light.png",
-      "dark": "https://your-host/my-obr-extension/icon-dark.png"
+      "light": "https://raw.githubusercontent.com/JohnDocument/angel-dec-rewrite/refs/heads/main/lancer_npc_carter1.png",
+      "dark": "https://raw.githubusercontent.com/JohnDocument/angel-dec-rewrite/refs/heads/main/lancer_npc_carter1.png"
     }
   }
 }
