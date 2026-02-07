@@ -6,9 +6,6 @@
   "background_url": "https://raw.githubusercontent.com/JohnDocument/angel-dec-rewrite/refs/heads/main/manifest.json",
   "action": {
     "title": "Hello World",
-    "icon": {
-      "light": "https://raw.githubusercontent.com/JohnDocument/angel-dec-rewrite/refs/heads/main/lancer_npc_carter1.png",
-      "dark": "https://raw.githubusercontent.com/JohnDocument/angel-dec-rewrite/refs/heads/main/lancer_npc_carter1.png"
-    }
+    "icon": "https://raw.githubusercontent.com/JohnDocument/angel-dec-rewrite/refs/heads/main/lancer_npc_carter1.png"
   }
 }
