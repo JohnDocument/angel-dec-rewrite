@@ -1,0 +1,14 @@
+{
+  "name": "My Hello World",
+  "author": "Your Name",
+  "version": "0.0.1",
+  "manifest_version": 1,
+  "background_url": "https://your-host/my-obr-extension/index.html",
+  "action": {
+    "title": "Hello World",
+    "icon": {
+      "light": "https://your-host/my-obr-extension/icon-light.png",
+      "dark": "https://your-host/my-obr-extension/icon-dark.png"
+    }
+  }
+}
